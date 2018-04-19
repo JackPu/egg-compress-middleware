@@ -1,6 +1,6 @@
 {
   "name": "egg-compress-middleware",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "an egg compress middleware",
   "main": "index.js",
   "scripts": {
